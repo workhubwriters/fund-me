@@ -1,2 +1,2 @@
-# fund-me
+# Fund WHR
 Request for funds
