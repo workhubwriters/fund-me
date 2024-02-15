@@ -1,2 +1,2 @@
 # Fund WHR
-Request for funds
+Request for funds for hosting
